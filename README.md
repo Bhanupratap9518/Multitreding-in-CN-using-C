@@ -1,4 +1,4 @@
-# Multithreaded In CN 
+# Multithreading In CN 
 CN Project - Multi-threaded Online Quiz System, developed in C language based on TCP protocol, including development of one Main Server, three Sub-servers and unlimited clients.
 
 Note: please make sure these ports are free before starting 2000, 2001, 2010, 2020, 2030 
